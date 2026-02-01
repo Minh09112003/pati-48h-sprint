@@ -3,7 +3,7 @@
 Bài nộp cho **PATI Alpha Ecommerce Developer Track – 48h Sprint Challenge**.  
 Mục tiêu: clone giao diện landing page IM8 Essentials một cách chính xác và responsive.
 
-🔗 Live Demo: https://<link-vercel>.vercel.app  
+🔗 Live Demo: https://pati-48h-sprint.vercel.app/
 🔗 Trang tham chiếu: https://im8health.com/products/essentials
 
 ## Công nghệ
@@ -17,4 +17,4 @@ index.html • style.css • script.js • assets/
 
 ## Tác giả
 **Diệp Đại Minh**  
-GitHub: https://github.com/<username>
+GitHub: https://github.com/Minh09112003
